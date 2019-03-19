@@ -120,4 +120,6 @@ img, video, audio {
 
 /*////////// Sections ////////////*/
 
-section: 
+section {
+  margin-bottom: 20px;
+}
